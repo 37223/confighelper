@@ -1,2 +1,1 @@
-# confighelper
-publii
+# gh-pages
