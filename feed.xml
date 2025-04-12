@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>confighelper</title>
-    <link href="https://37223.github.io/confighelper/feed.xml" rel="self" />
-    <link href="https://37223.github.io/confighelper" />
+    <link href="https://confighelper.app/feed.xml" rel="self" />
+    <link href="https://confighelper.app" />
     <updated>2025-04-12T08:49:26-06:00</updated>
     <author>
         <name>VK</name>
     </author>
-    <id>https://37223.github.io/confighelper</id>
+    <id>https://confighelper.app</id>
 
     <entry>
         <title>about</title>
         <author>
             <name>VK</name>
         </author>
-        <link href="https://37223.github.io/confighelper/about/"/>
-        <id>https://37223.github.io/confighelper/about/</id>
+        <link href="https://confighelper.app/about/"/>
+        <id>https://confighelper.app/about/</id>
 
         <updated>2025-04-12T08:49:26-06:00</updated>
             <summary></summary>
