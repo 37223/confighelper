@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "confighelper",
+    "description": "",
+    "home_page_url": "https://37223.github.io/confighelper",
+    "feed_url": "https://37223.github.io/confighelper/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "VK"
+    },
+    "items": [
+        {
+            "id": "https://37223.github.io/confighelper/about/",
+            "url": "https://37223.github.io/confighelper/about/",
+            "title": "about",
+            "content_html": "\n  <ul>\n    <li></li>\n  </ul>",
+            "author": {
+                "name": "VK"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-12T08:49:26-06:00",
+            "date_modified": "2025-04-12T08:49:26-06:00"
+        }
+    ]
+}

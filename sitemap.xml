@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://37223.github.io/confighelper/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://37223.github.io/confighelper/</loc>
+</url>
+<url>
+<loc>https://37223.github.io/confighelper/about/</loc>
+<lastmod>2025-04-12T08:49:26-06:00</lastmod>
+</url>
+<url>
+<loc>https://37223.github.io/confighelper/blank/</loc>
+<lastmod>2025-04-12T08:57:03-06:00</lastmod>
+</url>
+<url>
+<loc>https://37223.github.io/confighelper/home/</loc>
+<lastmod>2025-04-12T09:18:54-06:00</lastmod>
+</url>
+<url>
+<loc>https://37223.github.io/confighelper/pricing/</loc>
+<lastmod>2025-04-12T08:54:28-06:00</lastmod>
+</url>
+<url>
+<loc>https://37223.github.io/confighelper/resources/</loc>
+<lastmod>2025-04-12T08:54:22-06:00</lastmod>
+</url>
+<url>
+<loc>https://37223.github.io/confighelper/solutions/</loc>
+<lastmod>2025-04-12T08:53:49-06:00</lastmod>
+</url>
+<url>
+<loc>https://37223.github.io/confighelper/use-cases/</loc>
+<lastmod>2025-04-12T08:54:16-06:00</lastmod>
+</url>
+</urlset>
