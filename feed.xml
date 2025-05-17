@@ -3,7 +3,7 @@
     <title>ConfigHelper</title>
     <link href="https://confighelper.app/feed.xml" rel="self" />
     <link href="https://confighelper.app" />
-    <updated>2025-04-12T08:49:26-06:00</updated>
+    <updated>2025-05-16T18:47:17-06:00</updated>
     <author>
         <name>VK</name>
     </author>
@@ -17,13 +17,17 @@
         <link href="https://confighelper.app/about/"/>
         <id>https://confighelper.app/about/</id>
 
-        <updated>2025-04-12T08:49:26-06:00</updated>
-            <summary></summary>
+        <updated>2025-05-16T18:47:17-06:00</updated>
+            <summary>
+                <![CDATA[
+                    hello
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
   <ul>
-    <li></li>
+    <li>hello</li>
   </ul>
             ]]>
         </content>
