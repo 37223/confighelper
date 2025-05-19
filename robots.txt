@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://confighelper.app/sitemap.xml
+Disallow: /

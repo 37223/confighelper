@@ -3,7 +3,7 @@
     <title>ConfigHelper</title>
     <link href="https://confighelper.app/feed.xml" rel="self" />
     <link href="https://confighelper.app" />
-    <updated>2025-04-12T08:49:26-06:00</updated>
+    <updated>2025-05-19T12:16:11-06:00</updated>
     <author>
         <name>VK</name>
     </author>
@@ -16,15 +16,22 @@
         </author>
         <link href="https://confighelper.app/about/"/>
         <id>https://confighelper.app/about/</id>
+        <media:content url="https://confighelper.app/media/posts/1/Microsoft-System-Center-Configuration-Manager-logo-e1529591849473.png" medium="image" />
 
-        <updated>2025-04-12T08:49:26-06:00</updated>
-            <summary></summary>
+        <updated>2025-05-19T12:16:11-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://confighelper.app/media/posts/1/Microsoft-System-Center-Configuration-Manager-logo-e1529591849473.png" alt="" />
+                    ConfigHelper - Automate App Repackaging &amp; SCCM Publishing ConfigHelper simplifies app re-packaging and deployment to SCCM. Save time, reduce errors,&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://confighelper.app/media/posts/1/Microsoft-System-Center-Configuration-Manager-logo-e1529591849473.png" class="type:primaryImage" alt="" /></p>
                 
-  <ul>
-    <li></li>
-  </ul>
+  <p>
+    ConfigHelper - Automate App Repackaging &amp; SCCM Publishing<br><br>ConfigHelper simplifies app re-packaging and deployment to SCCM. Save time, reduce errors, and streamline your IT operations.<br><br><br><br><br><br>Key Features<br><br>🚀 Automated Repackaging: Convert .exe/.msu files into SCCM-compatible packages with one click.<br>🧩 SCCM Integration: Publish re-packaged apps directly to SCCM without manual steps.<br>🔧 Customization &amp; Flexibility: Tailor deployment scripts, handle dependencies, and version control all within the tool.<br>🔒 Security &amp; Compliance: Ensure compliance with enterprise security policies during repackaging.
+  </p>
             ]]>
         </content>
     </entry>

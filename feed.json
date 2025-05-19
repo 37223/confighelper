@@ -14,14 +14,16 @@
             "id": "https://confighelper.app/about/",
             "url": "https://confighelper.app/about/",
             "title": "about",
-            "content_html": "\n  <ul>\n    <li></li>\n  </ul>",
+            "summary": "ConfigHelper - Automate App Repackaging &amp; SCCM Publishing ConfigHelper simplifies app re-packaging and deployment to SCCM. Save time, reduce errors,&hellip;",
+            "content_html": "\n  <p>\n    ConfigHelper - Automate App Repackaging &amp; SCCM Publishing<br><br>ConfigHelper simplifies app re-packaging and deployment to SCCM. Save time, reduce errors, and streamline your IT operations.<br><br><br><br><br><br>Key Features<br><br>🚀 Automated Repackaging: Convert .exe/.msu files into SCCM-compatible packages with one click.<br>🧩 SCCM Integration: Publish re-packaged apps directly to SCCM without manual steps.<br>🔧 Customization &amp; Flexibility: Tailor deployment scripts, handle dependencies, and version control all within the tool.<br>🔒 Security &amp; Compliance: Ensure compliance with enterprise security policies during repackaging.\n  </p>",
+            "image": "https://confighelper.app/media/posts/1/Microsoft-System-Center-Configuration-Manager-logo-e1529591849473.png",
             "author": {
                 "name": "VK"
             },
             "tags": [
             ],
             "date_published": "2025-04-12T08:49:26-06:00",
-            "date_modified": "2025-04-12T08:49:26-06:00"
+            "date_modified": "2025-05-19T12:16:11-06:00"
         }
     ]
 }
