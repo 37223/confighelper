@@ -5,7 +5,7 @@
     "home_page_url": "https://confighelper.app",
     "feed_url": "https://confighelper.app/feed.json",
     "user_comment": "",
-    "icon": "https://confighelper.app/media/website/confighelperlogo.png",
+    "icon": "https://confighelper.app/media/website/package_c.svg",
     "author": {
         "name": "VK"
     },
@@ -14,14 +14,16 @@
             "id": "https://confighelper.app/about/",
             "url": "https://confighelper.app/about/",
             "title": "about",
-            "content_html": "\n  <ul>\n    <li></li>\n  </ul>",
+            "summary": "🌟 ConfigHelper – Make SCCM Simple Again 🔥 Intuitive. Powerful. Reliable. ConfigHelper is the all-in-one solution to re-package EXE files&hellip;",
+            "content_html": "\n  <p>\n    🌟 ConfigHelper – Make SCCM Simple Again<br>🔥 Intuitive. Powerful. Reliable.\n  </p>\n\n  <p>\n    ConfigHelper is the all-in-one solution to re-package EXE files into Microsoft Configuration Manager (SCCM) with zero command-line skills required. Whether you're managing 10 devices or 10,000, ConfigHelper streamlines your workflow so you can focus on what matters: your job.<br><br>🧠 Why Use ConfigHelper?\n  </p>\n\n  <p>\n    No Scripting Needed: Drag-and-drop EXE files and let ConfigHelper do the rest.<br>Speed &amp; Accuracy: Reduce deployment time by 70% with automated re-packaging.<br>Built for SCCM: Designed specifically for IT pros who need reliable, repeatable results.<br>\n  </p>\n\n  <p>\n    🧩 Key Features\n  </p>\n\n  <p>\n    ✅ GUI Interface – No more CLI headaches.<br><br>✅ Auto-Generated Scripts – Perfect for auditing and compliance.\n  </p>\n\n  <p>\n    ✅ Customizable Templates – Tailor re-packaging to your organization’s needs.<br><br>✅ Secure &amp; Lightweight – No bloat, just pure efficiency.<br><br>📌 What Our Users Say<br><br>\"ConfigHelper saved me hours every week. It's like having an automation wizard in my pocket.\"<br><br>– Alex M., IT Admin, Edmonton<br><br><br><br>\"Finally, a tool that makes SCCM feel modern. I’ve recommended it to my entire team.\"<br><br>– Jordan T., Systems Engineer, Calgary<br><br><br>🚀 Start Your Free Trial Today!\n  </p>\n\n  <p>\n    No credit card required. No strings attached.<br><br><br><br>💡 How It Works\n  </p>\n\n  <p>\n    Upload Your EXE: Drag and drop your legacy application.<br>Configure Settings: Choose options like installation path, dependencies, etc.<br>Generate &amp; Deploy: Get a ready-to-deploy SCCM package in seconds.<br>🛠️ Built by IT Pros, for IT Pros<br>At Alberta LTD, we’re not just developers—we're IT professionals who’ve lived the pain of SCCM deployments. That’s why ConfigHelper is designed with your workflow in mind.<br><br>Based in Calgary, AB – 2024\n  </p>",
+            "image": "https://confighelper.app/media/posts/1/Microsoft-System-Center-Configuration-Manager-logo-e1529591849473.png",
             "author": {
                 "name": "VK"
             },
             "tags": [
             ],
             "date_published": "2025-04-12T08:49:26-06:00",
-            "date_modified": "2025-04-12T08:49:26-06:00"
+            "date_modified": "2025-05-21T21:12:51-06:00"
         }
     ]
 }
